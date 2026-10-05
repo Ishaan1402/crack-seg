@@ -5,7 +5,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C?logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
 [![Model Weights](https://img.shields.io/badge/🤗%20Model-Weights-yellow)](https://huggingface.co/ishaan1402/crack-seg)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Automated crack detection from high-resolution UAV bridge imagery; powered by U-Net, an Encoder-Decoder CNN model with skip connections. 
 
